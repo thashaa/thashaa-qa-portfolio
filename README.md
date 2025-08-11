@@ -1,4 +1,4 @@
-# 🌟 **Thasha Dinya – QA Portfolio**
+# 🌟 **Thasha Dinya Ainsha – QA Portfolio**
 
 ---
 
