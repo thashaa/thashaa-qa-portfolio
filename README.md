@@ -3,7 +3,7 @@
 ---
 
 ## 👩🏻‍💻 **About Me**
-✨ *Quality Assurance Engineer with 3 years of experience testing web, mobile, and desktop applications. Skilled in manual testing, defect management with a growing focus on automation using Cypress.*  
+✨ *Hi, I'm Thasha! I'm a Quality Assurance with 3 years of experience testing web, mobile, and desktop applications. Skilled in manual testing, defect management with a growing focus on automation using Cypress.*  
 
 ---
 ## ✅ **QA Work Samples**
