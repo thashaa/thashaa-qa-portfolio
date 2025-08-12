@@ -3,7 +3,7 @@
 ---
 
 ## 👩🏻‍💻 **About Me**
-✨ *Quality Assurance Engineer with 3 years of experience testing web, mobile, and desktop applications. Skilled in manual testing, defect management, and process documentation, with a growing focus on automation using Cypress.*  
+✨ *Quality Assurance Engineer with 3 years of experience testing web, mobile, and desktop applications. Skilled in manual testing, defect management with a growing focus on automation using Cypress.*  
 
 ---
 ## ✅ **QA Work Samples**
