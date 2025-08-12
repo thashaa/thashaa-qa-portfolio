@@ -16,6 +16,19 @@
 ### 🐞 Bug Reports  
 - **[Bug Report for Demoblaze.com](https://docs.google.com/spreadsheets/d/1VywlclAHCO0gqcjG6WjwRsoU_Dv5Y-FvygR-3VgYFOc/edit?usp=sharing)**
 
+## 🌐 **Demo Projects Used for Testing**
+Here are public demo sites I used to build NDA-safe examples:
+- 🛒 [**Sauce Demo**](https://www.saucedemo.com/) – E-commerce demo site  
+- 🛒 [**Demo Blaze**](https://www.demoblaze.com/index.html) – E-commerce demo site  
+
+---
+
+## ⚙️ **Skills & Tools**
+- **Manual Testing:** Test case creation, execution, UAT facilitation  
+- **Documentation:** Test case, defect reports 
+- **Tools:** JIRA, Postman, JMeter
+- **Automation (Learning):** Cypress   
+
 
 ---
 
